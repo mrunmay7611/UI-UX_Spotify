@@ -4,7 +4,7 @@
 
 In today’s fast-paced world, music is often a companion to our emotions. However, existing music streaming platforms lack a focused approach to adapt content to users' current moods. This project reimagines Spotify as a mood-driven music experience, allowing users to seamlessly connect their emotions with personalized playlists and insightful tools for emotional well-being.
 
-**roject Overview**
+**Project Overview**
 
 **Objective**: To redesign Spotify to offer a mood-driven music experience, providing users with mood-based playlists, interactive visuals, and personalized insights.
 
